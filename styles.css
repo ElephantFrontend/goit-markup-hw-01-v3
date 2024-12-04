@@ -1,0 +1,7 @@
+:root {
+    --navi-blue: #2E2F42;
+}
+.footer {
+    padding: 100px 156px;
+    background: var(--navi-blue);
+}
